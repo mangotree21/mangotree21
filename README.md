@@ -1,6 +1,7 @@
 ### Hi there 👋
 <div align="center">
-<img src="https://github.com/mangotree21/mangotree21/issues/1#issue-2183052056" alt="banner that says Ashis Paul - data analytics, data science and python programming.">
+<img src="![205173150-a-lovable-3d-cartoon-character-of-a-mango-with-an-irresistible-smile-and-a-luscious-orange-color](https://github.com/mangotree21/mangotree21/assets/152438509/9fce4db5-3480-4e81-ae12-a45008e663d0)
+" alt="banner that says Ashis Paul - data analytics, data science and python programming.">
 
 </div>  
   
