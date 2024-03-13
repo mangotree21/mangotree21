@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-<img src="https://images.app.goo.gl/rgQqNcReqMUQipT67" align="center" style="width: 100%" />
+<img src="[https://images.app.goo.gl/rgQqNcReqMUQipT67](https://cdn.vectorstock.com/i/1000x1000/99/89/funny-yellow-mango-cartoon-vector-27489989.webp)" align="center" style="width: 100%" />
 </div>  
   
 
