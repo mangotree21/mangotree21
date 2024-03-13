@@ -5,13 +5,13 @@
 </div>  
   
 
-### <div align="center">I'm Ashis Paul, Diving into the world of Data Science and Python programming. 🐍</div>  
+### <div align="left">I'm Ashis Paul, Diving into the world of Data Science and Python programming. 🐍</div>  
   
 
-- 🔭 I’m currently working on getting into the field of Data Analytics and Data Science.  
+🔭 I’m currently working on getting into the field of Data Analytics and Data Science.  
   
 
-- 🌱 I’m currently learning Machine Learning , NLP  
+🌱 I’m currently learning Machine Learning , NLP  
   
 
 -   
