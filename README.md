@@ -1,57 +1,58 @@
-### Hi there 👋
-<div align="left">
-<img src="https://github.com/mangotree21/mangotree21/assets/152438509/9fce4db5-3480-4e81-ae12-a45008e663d0" alt="banner that says Ashis Paul - data analytics, data science and python programming.">
 
-</div>  
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml2cnNjcHEyNmx2cTV2dG9sdGZ2MjRjNm94eHA5anlnaGRyOG8ydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="www.linkedin.com/in/ashiskpaul221">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/mangotree21">
+    <img src="https://img.shields.io/badge/github-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+</div>
+  <div id = "badges" >
+  <img src="https://komarev.com/ghpvc/?username=mangotree21&style=flat-square&color=blue" alt=""/>
+  </div>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
   
+  ---
 
-### <div align="left">I'm Ashis Paul, Diving into the world of Data Science and Python programming. 🐍</div>  
-  
-
-🔭 I’m currently working on getting into the field of Data Analytics and Data Science.  
-  
-🌱 I’m currently learning Machine Learning , NLP  
-  
-⚡ Fun fact: I use tabs over spaces😀  
-  
-
-## Connect with me  
+### :man_technologist: About Me :
 <div align="center">
-<a href="https://github.com/https://github.com/mangotree21" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ashiskpaul221" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+I'm Ashis Paul, Diving into the world of Data Science and Python programming.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-<br/>  
+ :telescope: I’m currently working on getting into the field of Data Analytics and Data Science.  
+ :seedling: I’m currently learning Machine Learning, NLP  
+ :zap: Fun fact: I use tabs over spaces😀  
+ :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AshisPaul-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/mangotree21)
+</div>
 
-<br/>  
+  ---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/AshisPaul" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  
+</div>
 
+---
 
+### :fire: My Stats :
 
-<!--
-**mangotree21/mangotree21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mangotree21&theme=dark&background=000000)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
+-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangotree21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
