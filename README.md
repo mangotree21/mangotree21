@@ -29,7 +29,7 @@ I'm Ashis Paul, Diving into the world of Data Science and Python programming.<im
  :telescope: I’m currently working on getting into the field of Data Analytics and Data Science.  
  :seedling: I’m currently learning Machine Learning, NLP  
  :zap: Fun fact: I use tabs over spaces😀  
- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AshisPaul-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ashiskpaul221)
+ :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AshisPaul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashiskpaul221/)
 </div>
 
   ---
